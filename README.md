@@ -8,6 +8,14 @@ Complete List: [feeds.txt](books/feeds.txt)
 
 - [New In Books](https://www.newinbooks.com/feed/)
 
+## DIY
+
+Complete List: [feeds.txt](diy/feeds.txt)
+
+- [A Beautiful Mess](https://abeautifulmess.com/feed/)
+- [Apartment Therapy](https://www.apartmenttherapy.com/projects.rss)
+- [Wonder How To](https://www.wonderhowto.com/rss.xml)
+
 ## Individuals
 
 Complete List: [feeds.txt](individuals/feeds.txt)
