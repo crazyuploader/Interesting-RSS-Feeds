@@ -22,3 +22,7 @@ Complete List: [feeds.txt](feeds/individuals/feeds.txt)
 
 - [Martin Heinz](https://martinheinz.dev/rss/)
 - [Scott Smitelli](https://www.scottsmitelli.com/index.xml)
+
+### Complete OPML Dump from Miniflux
+
+- [feeds.opml](opml-dump/feeds.opml)
