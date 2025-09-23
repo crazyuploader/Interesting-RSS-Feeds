@@ -4,13 +4,13 @@
 
 ## Books
 
-Complete List: [feeds.txt](books/feeds.txt)
+Complete List: [feeds.txt](feeds/books/feeds.txt)
 
 - [New In Books](https://www.newinbooks.com/feed/)
 
 ## DIY
 
-Complete List: [feeds.txt](diy/feeds.txt)
+Complete List: [feeds.txt](feeds/diy/feeds.txt)
 
 - [A Beautiful Mess](https://abeautifulmess.com/feed/)
 - [Apartment Therapy](https://www.apartmenttherapy.com/projects.rss)
@@ -18,7 +18,7 @@ Complete List: [feeds.txt](diy/feeds.txt)
 
 ## Individuals
 
-Complete List: [feeds.txt](individuals/feeds.txt)
+Complete List: [feeds.txt](feeds/individuals/feeds.txt)
 
 - [Martin Heinz](https://martinheinz.dev/rss/)
 - [Scott Smitelli](https://www.scottsmitelli.com/index.xml)
