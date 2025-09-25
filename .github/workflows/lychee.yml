@@ -14,13 +14,6 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - name: Restore lychee cache
-        uses: actions/cache@v4
-        with:
-          path: .lycheecache
-          key: cache-lychee-${{ github.sha }}
-          restore-keys: cache-lychee-
-
       - name: Run lychee
         id: lychee
         uses: lycheeverse/lychee-action@v2
